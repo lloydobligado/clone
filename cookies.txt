@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kaffa.like-themes.com	TRUE	/	FALSE	1999999999	PHPSESSID	fb65be6dc600ebdd88fa173f0ef10784
+kaffa.like-themes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+kaffa.like-themes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2346101926410ffdee9ff7e96dc4c026	98a47c2449820fb810920221f477bfe4%7C%7C1727239677%7C%7C1727236077%7C%7Cf3fa90fbc52368d670fc86d1a0a8c462
+kaffa.like-themes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3beb3c766472fcb8b4b386ba3d2c294d
+
